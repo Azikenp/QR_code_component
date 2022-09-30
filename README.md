@@ -27,4 +27,4 @@ This is a basic Frontend challenge which entails purely HTML and CSS.
 ## author
 
 - Frontend Mentor - (https://www.frontendmentor.io/profile/Azikenp)
-- Twitter - (https://www.twitter.com/3rd_wise_man)
+- Twitter - (https://www.twitter.com/ogacoder)
